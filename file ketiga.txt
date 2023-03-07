@@ -1,0 +1,4 @@
+file ini digunakan untuk marge
+ketikan perintah marge dilokal urutannya adalah
+git marge nama_branch
+git push
